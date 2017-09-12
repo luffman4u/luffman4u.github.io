@@ -2475,56 +2475,26 @@ body {
 .cid-quTZWTDahJ P {
   text-align: left;
 }
-.cid-quZAhxwRJR {
-  padding-top: 45px;
-  padding-bottom: 45px;
+.cid-quZHRYXzDw {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background: #ffffff;
 }
-.cid-quZAhxwRJR .media-container-row {
-  margin: 0 auto;
-  align-items: stretch;
+.cid-quZHRYXzDw .image-block {
+  margin: auto;
 }
-.cid-quZAhxwRJR .media-container-row .img-item {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+.cid-quZHRYXzDw figcaption {
   position: relative;
-  width: 100%;
-  z-index: 1;
 }
-.cid-quZAhxwRJR .media-container-row .img-item .img-cont {
-  position: relative;
-  overflow: hidden;
-}
-.cid-quZAhxwRJR .media-container-row .img-item .img-cont img {
-  width: 100%;
-}
-.cid-quZAhxwRJR .media-container-row .img-item .img-cont .img-caption {
+.cid-quZHRYXzDw figcaption div {
   position: absolute;
   bottom: 0;
   width: 100%;
-  z-index: 2;
-  padding: 1rem 1rem;
-  word-break: break-word;
 }
-.cid-quZAhxwRJR .media-container-row .img-item .img-cont .img-caption p {
-  margin-bottom: 0;
-}
-.cid-quZAhxwRJR .media-container-row .img-item.item1 {
-  padding: 0 2rem 0 0;
-}
-@media (max-width: 992px) {
-  .cid-quZAhxwRJR .img-item {
+@media (max-width: 768px) {
+  .cid-quZHRYXzDw .image-block {
     width: 100% !important;
   }
-  .cid-quZAhxwRJR .img-item.item1 {
-    width: 100%;
-    flex-basis: initial !important;
-    padding: 0 0 2rem 0 !important;
-  }
-}
-.cid-quZAhxwRJR P {
-  color: #f7ed4a;
 }
 .cid-quZDMDzlbx {
   padding-top: 60px;
@@ -2536,6 +2506,27 @@ body {
 }
 .cid-quZDMDzlbx .mbr-section-subtitle DIV {
   color: #232323;
+}
+.cid-quZI9qOZdB {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-quZI9qOZdB .image-block {
+  margin: auto;
+}
+.cid-quZI9qOZdB figcaption {
+  position: relative;
+}
+.cid-quZI9qOZdB figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-quZI9qOZdB .image-block {
+    width: 100% !important;
+  }
 }
 .cid-quTZWS8SnH .navbar {
   padding: .5rem 0;
