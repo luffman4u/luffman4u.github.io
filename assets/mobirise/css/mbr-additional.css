@@ -2507,27 +2507,6 @@ body {
 .cid-quZDMDzlbx .mbr-section-subtitle DIV {
   color: #232323;
 }
-.cid-quZI9qOZdB {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: #ffffff;
-}
-.cid-quZI9qOZdB .image-block {
-  margin: auto;
-}
-.cid-quZI9qOZdB figcaption {
-  position: relative;
-}
-.cid-quZI9qOZdB figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-quZI9qOZdB .image-block {
-    width: 100% !important;
-  }
-}
 .cid-quTZWS8SnH .navbar {
   padding: .5rem 0;
   background: #333333;
