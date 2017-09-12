@@ -871,7 +871,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-08-19-at-5.17.05-pm-806x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
@@ -906,7 +906,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2017-08-19-at-5.17.08-pm1-762x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
@@ -915,7 +915,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<b>Terjemahan Per Aya</b>t",
+                "title": "<b>Terjemahan Per Ayat</b>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "&nbsp;Al Quran Al ni bukan shj terdapat terjemahan ayat malah di buat terjemahan SETIAP perkataan ayat tersebut..senang utk anda mengetahui makna setiap perkataan ayat yg di baca..sesuai utk mereka yg belajar bahasa Arab lg² bg anak² yg sedang mendalami bahasa Arab ",
